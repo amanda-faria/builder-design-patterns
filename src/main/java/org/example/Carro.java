@@ -18,7 +18,7 @@ public class Carro {
     public Carro() {
         this.modelo = "";
         this.marca = "";
-        //this.ano = 0;
+        this.ano = 0;
     }
 
     public String getModelo() {
